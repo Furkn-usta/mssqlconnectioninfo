@@ -1,0 +1,10 @@
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\bin\Debug\ServerConnectInfo.exe.config
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\bin\Debug\ServerConnectInfo.exe
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\bin\Debug\ServerConnectInfo.pdb
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\obj\Debug\ServerConnectInfo.csproj.AssemblyReference.cache
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\obj\Debug\ServerConnectInfo.Form1.resources
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\obj\Debug\ServerConnectInfo.Properties.Resources.resources
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\obj\Debug\ServerConnectInfo.csproj.GenerateResource.cache
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\obj\Debug\ServerConnectInfo.csproj.CoreCompileInputs.cache
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\obj\Debug\ServerConnectInfo.exe
+C:\Users\EnkayPC\source\repos\ServerConnectInfo\ServerConnectInfo\obj\Debug\ServerConnectInfo.pdb
